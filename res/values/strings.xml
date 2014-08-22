@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FTPupload</string>
+    <string name="user_name">User Name</string>
+    <string name="user_passwd">Password</string>
+    <string name="title_activity_upload">Upload File</string>
+    <string name="login">Login</string>
+    <string name="upload">Upload</string>
+    <string name="select">Select File</string>
+
+</resources>
